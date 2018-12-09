@@ -2,4 +2,6 @@
 
 info();
 
+echo "hello";
+
 ?>
